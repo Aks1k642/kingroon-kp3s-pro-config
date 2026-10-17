@@ -2,7 +2,7 @@
 
 - **Статус:** запланировано.
 - **Исходная модель:** [KP3S Pro/S1 Dual Z Axis Mod](https://www.printables.com/model/729972-kp3s-pro-s1-dual-z-axis-mod)
-- **Автор:** уточнить по карточке модели перед началом работ.
+- **Автор исходной модели:** [PRINTING_PERSPECTIVE](https://cults3d.com/en/users/PRINTING_PERSPECTIVE/creations).
 - **Источник:** Printables.
 
 ## Перед началом
