@@ -8,5 +8,6 @@
 # Временные и архивные файлы
 *.tmp
 *.zip
+!bambu-studio-profiles/**/*.zip
 Thumbs.db
 Desktop.ini

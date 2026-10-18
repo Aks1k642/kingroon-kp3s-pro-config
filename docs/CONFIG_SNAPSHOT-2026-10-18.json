@@ -1,0 +1,64 @@
+{
+  "snapshot_date": "2026-10-18",
+  "timezone": "Europe/Moscow",
+  "printer_power": "off; host available",
+  "validation": "files only; no motion, heating, firmware changes or service restarts",
+  "previous_git_head": "041ab3bbe2bbc856d1c3e354789708b79e9ae01f",
+  "files": [
+    {
+      "path": "klipper-config/printer.cfg",
+      "bytes": 2776,
+      "sha256": "5175380eced2babde3ac877aacd1c26e5c6a5a9021ea18df5ef51ea387a4700a",
+      "host_symlink": false
+    },
+    {
+      "path": "klipper-config/stepper.cfg",
+      "bytes": 835,
+      "sha256": "1ab31ed0f3b9129ee8964b3edb69c463b7ddc3c579d98fc311f35107c6bcaf3c",
+      "host_symlink": false
+    },
+    {
+      "path": "klipper-config/Macros.cfg",
+      "bytes": 3346,
+      "sha256": "cdf60fc536c8d57612c7e8cbda31722689846fd63847dbc91b6c0ea503f784ac",
+      "host_symlink": false
+    },
+    {
+      "path": "klipper-config/bed.cfg",
+      "bytes": 168,
+      "sha256": "8736c3db79bf57aef1e247987bec592791006597c340b4214e3c0150c2ed7375",
+      "host_symlink": false
+    },
+    {
+      "path": "klipper-config/extruder.cfg",
+      "bytes": 549,
+      "sha256": "ff587518b7bfbf7e050d02c571d2d7cdb8161d07ec97a6ebe0296b51a6d8bba9",
+      "host_symlink": false
+    },
+    {
+      "path": "klipper-config/fan.cfg",
+      "bytes": 129,
+      "sha256": "d5e6ea04674c84e442fa5aa9c39497ef10b76f658f6a4ecbe2fbd6a6c8818abb",
+      "host_symlink": false
+    },
+    {
+      "path": "klipper-config/thermistor.cfg",
+      "bytes": 166,
+      "sha256": "48518638dc11f0e0d2c43b4ec8f37513dd64d97da4fe2beb59c1b2c220f36678",
+      "host_symlink": false
+    },
+    {
+      "path": "klipper-config/tmc.cfg",
+      "bytes": 1243,
+      "sha256": "a34eae860721c048a33549f5ac5e8e39685cbca57dba2c52131b4e61ced8ccd4",
+      "host_symlink": false
+    },
+    {
+      "path": "klipper-config/fluidd.cfg",
+      "bytes": 16605,
+      "sha256": "f5511c153c36ab21513c2f9d12d59a4e7f34fc403ea1d2c199d82d99925675c0",
+      "host_symlink": true
+    }
+  ],
+  "firmware_build_config_sha256": "a61781d49e577105876ae5ca8cd22b3ac4b4781c503f6165683b342b55ea2df2"
+}
